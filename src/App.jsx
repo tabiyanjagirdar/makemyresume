@@ -103,7 +103,7 @@ const App = () => {
           <div className="flex justify-center items-center gap-8 overflow-x-auto whitespace-nowrap">
             {/* WhatsApp */}
             <a
-              href="https://wa.me/919964198118"
+              href="https://wa.me/919449723865"
               className="p-3 rounded-full border-2 border-black text-green-600 hover:scale-110 transition"
               aria-label="Message on WhatsApp"
             >
@@ -112,7 +112,7 @@ const App = () => {
 
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/resumebro"
+              href="https://www.instagram.com/makemyresume01?igsh=eHIyeWZxcTZmcWl2"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full border-2 border-black text-pink-600 hover:scale-110 transition"
@@ -123,7 +123,7 @@ const App = () => {
 
             {/* Email */}
             <a
-              href="mailto:resumebro@example.com"
+              href="mailto:studybrokud@example.com"
               className="p-3 rounded-full border-2 border-black text-blue-600 hover:scale-110 transition"
               aria-label="Email Us"
             >
