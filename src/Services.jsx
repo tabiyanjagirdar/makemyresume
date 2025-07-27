@@ -24,7 +24,7 @@ const Services = () => {
                         <li>⚡ Delivered in 24 Hrs via WhatsApp</li>
                     </ul>
                     <a
-                        href="https://wa.me/919964198118?text=Hi%20I%20want%20to%20opt%20for%20the%20₹49%20ATS%20resume%20only%20service"
+                        href="https://wa.me/919449723865?text=Hi%20I%20want%20to%20opt%20for%20the%20₹49%20ATS%20resume%20only%20service"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block w-full sm:w-auto px-6 py-3 bg-black text-white hover:bg-gray-900 rounded-full font-semibold tracking-wide"
@@ -46,7 +46,7 @@ const Services = () => {
                         <li>🧠 1-on-1 Career Consultation</li>
                     </ul>
                     <a
-                        href="https://wa.me/919964198118?text=Hi%20I%20am%20interested%20in%20the%20₹99%20resume%20offer"
+                        href="https://wa.me/919449723865?text=Hi%20I%20am%20interested%20in%20the%20₹99%20resume%20offer"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block w-full sm:w-auto px-6 py-3 bg-black text-white hover:bg-gray-900 rounded-full font-semibold tracking-wide"
